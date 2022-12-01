@@ -21,7 +21,7 @@ namespace UnitTestAddressFrequency
         [TestMethod]
         public void PopulateFrequency_Addresses_Positive()
         {
-            inputFile = @"C:\Users\LindokuhleB\Desktop\Developer\Enversoft _ Assessment for role Senior C# Software Developer\Data.csv";
+            inputFile = @"C:\Users\LindokuhleB\Documents\EnverSoft\Data.csv";
             var expected = true;
             string[] Lines = File.ReadAllLines(inputFile);
             var result = myClass.PopulateFrequency_Addresses(myClass,Frequency, Addresses, Lines);
@@ -77,7 +77,7 @@ namespace UnitTestAddressFrequency
         {
             var expected = "Brown,1";
             Frequency.Add("Brown", 1);
-            var outputFrequency = @"C:\Users\LindokuhleB\Desktop\Developer\Enversoft _ Assessment for role Senior C# Software Developer\frequency.txt";
+            var outputFrequency = @"C:\Users\LindokuhleB\Documents\EnverSoft\frequency.txt";
             var result =  myClass.addFrequencyText(Frequency, outputFrequency);
             Assert.IsTrue(result.Contains(expected));
         }
@@ -96,7 +96,7 @@ namespace UnitTestAddressFrequency
         {
             var expected = "65 Ambling Way";
 
-            var outputAddresses = @"C:\Users\LindokuhleB\Desktop\Developer\Enversoft _ Assessment for role Senior C# Software Developer\addresses.txt";
+            var outputAddresses = @"C:\Users\LindokuhleB\Documents\EnverSoft\addresses.txt";
             Addresses.Add("65 Ambling Way", "Ambling Way");
             var result = myClass.addAddressText(Addresses, outputAddresses);
             Assert.IsTrue(result.Contains(expected));

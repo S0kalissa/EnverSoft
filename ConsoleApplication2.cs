@@ -11,14 +11,15 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            var inputFile = @"C:\Users\LindokuhleB\Desktop\Developer\Enversoft _ Assessment for role Senior C# Software Developer\Data.csv";
-            var outputFrequency = @"C:\Users\LindokuhleB\Desktop\Developer\Enversoft _ Assessment for role Senior C# Software Developer\frequency.txt";
-            var outputAddresses = @"C:\Users\LindokuhleB\Desktop\Developer\Enversoft _ Assessment for role Senior C# Software Developer\addresses.txt";
+            var inputFile = @"C:\Users\LindokuhleB\Documents\EnverSoft\Data.csv";
+            var outputFrequency = @"C:\Users\LindokuhleB\Documents\EnverSoft\frequency.txt";
+            var outputAddresses = @"C:\Users\LindokuhleB\Documents\EnverSoft\addresses.txt";
             if (!File.Exists(inputFile))
             {
                 Console.WriteLine("File not Exists!");
                 return;
             }
+
 
             string[] Lines = File.ReadAllLines(inputFile);
             if (Lines.Length > 0)
@@ -26,32 +27,33 @@ namespace ConsoleApplication2
                 var Frequency = new Dictionary<string, int>();
                 var Addresses = new Dictionary<string, string>();
                 var myClass = new Program();
-                if (myClass.PopulateFrequency_Addresses(myClass,Frequency, Addresses, Lines))
+                if (myClass.PopulateFrequency_Addresses(myClass, Frequency, Addresses, Lines))
                 {
                     var FrequencyText = myClass.addFrequencyText(Frequency, outputFrequency);
                     var AddressText = myClass.addAddressText(Addresses, outputAddresses);
-                  }
-              
-                Console.WriteLine("Press <ENTER> to continue");
+                }
+
+                Console.WriteLine("Press no<ENTER> to continue");
                 Console.ReadKey();
             }
         }
 
-        public bool PopulateFrequency_Addresses(Program myClass,Dictionary<string, int> Frequency, Dictionary<string, string> Addresses, string[] Lines)
+        public bool PopulateFrequency_Addresses(Program myClass, Dictionary<string, int> Frequency, Dictionary<string, string> Addresses, string[] Lines)
         {
-            if (Lines != null) {
-            for (var i = 1; i < Lines.Length; i++)
+            if (Lines != null)
             {
-                if (Lines[i].Length > 0)
+                for (var i = 1; i < Lines.Length; i++)
                 {
-                    var line = Lines[i];
-                    line = myClass.AddFrequency(Frequency, line);
-                    line = myClass.AddFrequency(Frequency, line);
-                    
-                       myClass.AddAddress(Addresses, line);
-                    
+                    if (Lines[i].Length > 0)
+                    {
+                        var line = Lines[i];
+                        line = myClass.AddFrequency(Frequency, line);
+                        line = myClass.AddFrequency(Frequency, line);
+
+                        myClass.AddAddress(Addresses, line);
+
+                    }
                 }
-            }
                 return true;
             }
             return false;
@@ -93,19 +95,19 @@ namespace ConsoleApplication2
         {
             if (Frequency != null && location != "")
             {
-                if (location.LastIndexOf('\\')>0 && Directory.Exists(location.Substring(0, location.LastIndexOf('\\'))))
+                if (location.LastIndexOf('\\') > 0 && Directory.Exists(location.Substring(0, location.LastIndexOf('\\'))))
                 {
-                 
 
-                StringBuilder frequencyContent = new StringBuilder();
-                var sortFrequency = Frequency.OrderByDescending(x => x.Value).ThenBy(x => x.Key);
-                foreach (var fr in sortFrequency)
-                {
-                    frequencyContent.AppendLine(fr.Key + "," + fr.Value);
-                }
-                File.WriteAllText(location, frequencyContent.ToString());
-                return frequencyContent.ToString();
-                   
+
+                    StringBuilder frequencyContent = new StringBuilder();
+                    var sortFrequency = Frequency.OrderByDescending(x => x.Value).ThenBy(x => x.Key);
+                    foreach (var fr in sortFrequency)
+                    {
+                        frequencyContent.AppendLine(fr.Key + "," + fr.Value);
+                    }
+                    File.WriteAllText(location, frequencyContent.ToString());
+                    return frequencyContent.ToString();
+
                 }
 
                 return "Not Exist";
@@ -119,21 +121,21 @@ namespace ConsoleApplication2
             {
                 if (location.LastIndexOf('\\') > 0 && Directory.Exists(location.Substring(0, location.LastIndexOf('\\'))))
                 {
-                 
-                StringBuilder addressContent = new StringBuilder();
-                var sortAddresses = Addresses.OrderBy(x => x.Value);
 
-                foreach (var address in sortAddresses)
-                {
-                    addressContent.AppendLine(address.Key);
+                    StringBuilder addressContent = new StringBuilder();
+                    var sortAddresses = Addresses.OrderBy(x => x.Value);
+
+                    foreach (var address in sortAddresses)
+                    {
+                        addressContent.AppendLine(address.Key);
                     }
-                File.WriteAllText(location, addressContent.ToString());
-                return addressContent.ToString();
+                    File.WriteAllText(location, addressContent.ToString());
+                    return addressContent.ToString();
                 }
                 return "Not Exist";
             }
             return "";
         }
-        
+
     }
 }

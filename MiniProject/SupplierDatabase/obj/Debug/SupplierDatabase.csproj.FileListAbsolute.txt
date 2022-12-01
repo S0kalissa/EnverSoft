@@ -132,6 +132,8 @@ C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Micros
 C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Google.xml
 C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Twitter.xml
 C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
-C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.csprojResolveAssemblyReference.cache
 C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.dll
 C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.csproj.CoreCompileInputs.cache
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.csproj.CopyComplete
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.csprojAssemblyReference.cache

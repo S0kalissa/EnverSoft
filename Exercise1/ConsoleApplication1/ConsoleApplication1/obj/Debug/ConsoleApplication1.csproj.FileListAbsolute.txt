@@ -13,3 +13,6 @@ C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication1\ConsoleAp
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise1\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache

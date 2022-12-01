@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 using System.Linq;
+using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 
@@ -11,9 +12,10 @@ namespace ConsoleApplication2
     {
         static void Main(string[] args)
         {
-            var inputFile = @"C:\Users\LindokuhleB\Documents\EnverSoft\Data.csv";
-            var outputFrequency = @"C:\Users\LindokuhleB\Documents\EnverSoft\frequency.txt";
-            var outputAddresses = @"C:\Users\LindokuhleB\Documents\EnverSoft\addresses.txt";
+            string root = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
+            var inputFile = Path.Combine(root, "ConsoleApplication2\\Files", "Data.csv");
+            var outputFrequency = Path.Combine(root, "ConsoleApplication2\\Files", "frequency.txt");
+            var outputAddresses = Path.Combine(root, "ConsoleApplication2\\Files", "addresses.txt");
             if (!File.Exists(inputFile))
             {
                 Console.WriteLine("File not Exists!");

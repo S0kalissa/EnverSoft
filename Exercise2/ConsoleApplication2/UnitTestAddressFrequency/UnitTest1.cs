@@ -17,11 +17,13 @@ namespace UnitTestAddressFrequency
         Program myClass = new Program();
         Dictionary<string, int> Frequency = new Dictionary<string, int>();
         Dictionary<string, string> Addresses = new Dictionary<string, string>();
+        string root = Directory.GetParent(Directory.GetCurrentDirectory()).Parent.Parent.FullName;
+
 
         [TestMethod]
         public void PopulateFrequency_Addresses_Positive()
         {
-            inputFile = @"C:\Users\LindokuhleB\Documents\EnverSoft\Data.csv";
+            inputFile = Path.Combine(root, "ConsoleApplication2\\Files", "Data.csv");
             var expected = true;
             string[] Lines = File.ReadAllLines(inputFile);
             var result = myClass.PopulateFrequency_Addresses(myClass,Frequency, Addresses, Lines);
@@ -77,8 +79,9 @@ namespace UnitTestAddressFrequency
         {
             var expected = "Brown,1";
             Frequency.Add("Brown", 1);
-            var outputFrequency = @"C:\Users\LindokuhleB\Documents\EnverSoft\frequency.txt";
-            var result =  myClass.addFrequencyText(Frequency, outputFrequency);
+           outputFrequency = Path.Combine(root, "ConsoleApplication2\\Files", "frequency.txt");
+         
+          var result =  myClass.addFrequencyText(Frequency, outputFrequency);
             Assert.IsTrue(result.Contains(expected));
         }
 
@@ -95,9 +98,9 @@ namespace UnitTestAddressFrequency
         public void addAddressText_Positive()
         {
             var expected = "65 Ambling Way";
+            outputAddresses = Path.Combine(root, "ConsoleApplication2\\Files", "addresses.txt");
 
-            var outputAddresses = @"C:\Users\LindokuhleB\Documents\EnverSoft\addresses.txt";
-            Addresses.Add("65 Ambling Way", "Ambling Way");
+           Addresses.Add("65 Ambling Way", "Ambling Way");
             var result = myClass.addAddressText(Addresses, outputAddresses);
             Assert.IsTrue(result.Contains(expected));
         }

@@ -11,6 +11,9 @@ C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestA
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\ConsoleApplication2.exe
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\ConsoleApplication2.pdb
-C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.csprojResolveAssemblyReference.cache
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.dll
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\ConsoleApplication2.exe.config
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.csprojAssemblyReference.cache
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.csproj.CoreCompileInputs.cache
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.csproj.CopyComplete

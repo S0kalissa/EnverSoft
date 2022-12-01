@@ -1,9 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Web;
 using System.Web.Mvc;
-using System.Collections;
 using SupplierDatabase.Models;
 
 namespace SupplierDatabase.Controllers
@@ -11,43 +9,28 @@ namespace SupplierDatabase.Controllers
     public class HomeController : Controller
     {
         Dictionary<string, string> SupplierList = new Dictionary<string,string>();
-
+        Random rd = new Random();
+        
         public List<SupplierViewModel> ListSuppliers()
         {
 
-            List<SupplierViewModel> test = new List<SupplierViewModel>();
-            SupplierViewModel rec = new SupplierViewModel();
-            rec.Code = "123"; rec.Name = "Londy"; rec.PhoneNumber = "0784518956";
-            test.Add(rec);
-            SupplierViewModel rec1 = new SupplierViewModel();
-            rec1.Code = "231"; rec1.Name = "Lindani"; rec1.PhoneNumber = "0784518745";
-            test.Add(rec1);
-            SupplierViewModel rec2 = new SupplierViewModel();
-            rec2.Code = "412"; rec2.Name = "Lindiwe"; rec2.PhoneNumber = "0784511474";
-            test.Add(rec2);
-            SupplierViewModel rec3 = new SupplierViewModel();
-            rec3.Code = "123"; rec3.Name = "Londy"; rec3.PhoneNumber = "0784518956";
-            test.Add(rec3);
-            SupplierViewModel rec13 = new SupplierViewModel();
-            rec13.Code = "231"; rec13.Name = "Lindani"; rec13.PhoneNumber = "0784518745";
-            test.Add(rec13);
-            SupplierViewModel rec23 = new SupplierViewModel();
-            rec23.Code = "412"; rec23.Name = "Lindiwe"; rec23.PhoneNumber = "0784511474";
-            test.Add(rec23);
-            SupplierViewModel rec33 = new SupplierViewModel();
-            rec33.Code = "123"; rec33.Name = "Londy"; rec33.PhoneNumber = "0784518956";
-            test.Add(rec33);
-            SupplierViewModel rec133 = new SupplierViewModel();
-            rec133.Code = "231"; rec133.Name = "Lindani"; rec133.PhoneNumber = "0784518745";
-            test.Add(rec1);
-            SupplierViewModel rec233 = new SupplierViewModel();
-            rec233.Code = "412"; rec233.Name = "Lindiwe"; rec233.PhoneNumber = "0784511474";
-            test.Add(rec233);
-            return test;
+            List<SupplierViewModel> SuppliersModelList = new List<SupplierViewModel>();
+            List<SupplierTable> Suppliers = new List<SupplierTable>();
+            using (EnverSoftDBEntities1 connection = new EnverSoftDBEntities1())
+            {
+                Suppliers = connection.SupplierTables.ToList();
+            }
+            foreach(var rec in Suppliers)
+            {
+                SuppliersModelList.Add(new SupplierViewModel { Code = rec.Code, Name = rec.Name, PhoneNumber = rec.Telephone_No });
+            }
+
+            return SuppliersModelList;
         }
         
         public ActionResult Index(string name)
         {
+
             var test = ListSuppliers();
             if (!string.IsNullOrEmpty(name))
             {
@@ -72,12 +55,30 @@ namespace SupplierDatabase.Controllers
 
         public ActionResult Supplier()
         {
-            ViewBag.Message = "Supplier.";
+            ViewBag.Message = "";
 
             return View();
         }
 
-      
+        [HttpPost]
+        public ActionResult Supplier(SupplierViewModel model)
+        {
+            ViewBag.Message = "Data loaded.";
+            model.Code = rd.Next(10, 9000);
+            if (ModelState.IsValid)
+            {
+                {
+                    
+                    using (EnverSoftDBEntities1 connection = new EnverSoftDBEntities1()) {
+                        connection.SupplierTables.Add(new SupplierTable { Code=Convert.ToInt16(model.Code),Name=model.Name,Telephone_No=model.PhoneNumber});
+                        connection.SaveChanges();
+                    }
+                }
+            }
+            return View();
+        }
+
+
 
         public ActionResult Ordering()
         {

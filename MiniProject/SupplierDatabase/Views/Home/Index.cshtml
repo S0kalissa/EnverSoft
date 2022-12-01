@@ -4,13 +4,15 @@
 }
 
 <div class="jumbotron">
-    <h2>Welcome to Supplier Database System</h2>
+    <h3>Welcome to Supplier Database System</h3>
     <p class="lead">Use the button below to add new Supplier details and a search bar to display the supplier’s telephone
 number.</p>
-    <p><a href="~/Home/Supplier" class="btn btn-primary btn-lg">Add Supplier Details &raquo;</a></p>
+    <p><a href="~/Home/Supplier" class="btn btn-primary">Add Supplier Details &raquo;</a></p>
 </div>
 <div class="row">
-    <form action="~/Home/Index" method="get"><p> Search By Company Name<input type="text" name="Name" /><button>Search</button></p></form>
+    <div class="form-inline text-center">
+        <form action="~/Home/Index" method="get"><p> Search By Company Name<input type="text" class="form-control" name="Name" /><button class="btn btn-primary">Search</button></p></form>
+    </div>
     <table class="table">
         <tr>
             <th>

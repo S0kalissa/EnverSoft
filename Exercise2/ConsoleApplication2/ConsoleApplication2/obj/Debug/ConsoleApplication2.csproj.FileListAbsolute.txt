@@ -9,4 +9,5 @@ C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\ConsoleAp
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\ConsoleApplication2\bin\Debug\ConsoleApplication2.pdb
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.exe
 C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.pdb
-C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojResolveAssemblyReference.cache
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csprojAssemblyReference.cache
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\ConsoleApplication2\obj\Debug\ConsoleApplication2.csproj.CoreCompileInputs.cache

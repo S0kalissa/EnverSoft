@@ -1,0 +1,16 @@
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\UnitTestAddressFrequency.dll
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\UnitTestAddressFrequency.pdb
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\ConsoleApplication2.exe
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\ConsoleApplication2.pdb
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.csprojResolveAssemblyReference.cache
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.dll
+c:\Users\LindokuhleB\Documents\Visual Studio 2015\Projects\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\UnitTestAddressFrequency.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\UnitTestAddressFrequency.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\ConsoleApplication2.exe
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\bin\Debug\ConsoleApplication2.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.csprojResolveAssemblyReference.cache
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\Exercise2\ConsoleApplication2\UnitTestAddressFrequency\obj\Debug\UnitTestAddressFrequency.pdb

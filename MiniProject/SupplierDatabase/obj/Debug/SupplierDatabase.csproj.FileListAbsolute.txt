@@ -1,0 +1,137 @@
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\csc.exe
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\vbc.exe
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\VBCSCompiler.exe
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\SupplierDatabase.dll.config
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\SupplierDatabase.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\SupplierDatabase.pdb
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Antlr3.Runtime.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\EntityFramework.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\EntityFramework.SqlServer.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.AspNet.Identity.Core.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.AspNet.Identity.Owin.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Host.SystemWeb.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Cookies.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Facebook.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Google.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.OAuth.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Twitter.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Newtonsoft.Json.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Owin.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Helpers.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Mvc.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Optimization.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Razor.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.WebPages.Deployment.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.WebPages.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.WebPages.Razor.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\WebGrease.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Helpers.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Mvc.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Optimization.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.Razor.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.WebPages.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.WebPages.Deployment.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\System.Web.WebPages.Razor.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Antlr3.Runtime.pdb
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Newtonsoft.Json.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\EntityFramework.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\EntityFramework.SqlServer.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.AspNet.Identity.Core.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.AspNet.Identity.Owin.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Host.SystemWeb.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Facebook.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Cookies.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.OAuth.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Google.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.Twitter.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\obj\Debug\SupplierDatabase.dll
+c:\users\lindokuhleb\documents\visual studio 2015\Projects\SupplierDatabase\SupplierDatabase\obj\Debug\SupplierDatabase.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\csc.exe
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\vbc.exe
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\VBCSCompiler.exe
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\SupplierDatabase.dll.config
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\SupplierDatabase.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\SupplierDatabase.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Antlr3.Runtime.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\EntityFramework.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\EntityFramework.SqlServer.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Newtonsoft.Json.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Owin.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Helpers.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Mvc.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Optimization.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Razor.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.WebPages.Deployment.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.WebPages.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.WebPages.Razor.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\WebGrease.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Helpers.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Mvc.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Optimization.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.Razor.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.WebPages.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.WebPages.Deployment.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\System.Web.WebPages.Razor.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Antlr3.Runtime.pdb
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Newtonsoft.Json.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\EntityFramework.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\EntityFramework.SqlServer.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.csprojResolveAssemblyReference.cache
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.dll
+C:\Users\LindokuhleB\Documents\EnverSoft\MiniProject\SupplierDatabase\obj\Debug\SupplierDatabase.pdb

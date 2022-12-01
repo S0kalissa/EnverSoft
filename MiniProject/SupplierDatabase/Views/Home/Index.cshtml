@@ -1,0 +1,45 @@
+﻿@model IEnumerable<SupplierDatabase.Models.SupplierViewModel>
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h2>Welcome to Supplier Database System</h2>
+    <p class="lead">Use the button below to add new Supplier details and a search bar to display the supplier’s telephone
+number.</p>
+    <p><a href="~/Home/Supplier" class="btn btn-primary btn-lg">Add Supplier Details &raquo;</a></p>
+</div>
+<div class="row">
+    <form action="~/Home/Index" method="get"><p> Search By Company Name<input type="text" name="Name" /><button>Search</button></p></form>
+    <table class="table">
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Code)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Name)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.PhoneNumber)
+            </th>
+            <th></th>
+        </tr>
+
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Code)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.Name)
+                </td>
+                <td>
+                    @Html.DisplayFor(modelItem => item.PhoneNumber)
+                </td>
+            </tr>
+        }
+
+    </table>
+
+</div>
